@@ -1,0 +1,16 @@
+{
+    "registros": [
+        {
+            "id": "dacb99",
+            "nombre": "zapatillas jordan",
+            "precio": "35000",
+            "imagen": "img-dacb99.webp"
+        },
+        {
+            "id": "a96c8d",
+            "nombre": "Cuadro x",
+            "precio": "100000",
+            "imagen": "img-a96c8d.jpeg"
+        }
+    ]
+}
